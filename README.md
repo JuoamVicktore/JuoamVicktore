@@ -1,4 +1,4 @@
-### Salve salve família, muito prazer! Eu me chamo João Victor Gomes, e trabalho atualmente como freelancer front-end, estudo javascript. É a primeira linguagem de programação que estou aprendendo e tenho pouco tempo de estudo, porém muita vontade de aprender
+### Salve salve família, muito prazer! Eu me chamo João Victor Gomes, e trabalho atualmente como freelancer FullStack, estudo javascript atualmente. Também estudei PHP, POO e Python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
